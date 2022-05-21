@@ -1,0 +1,78 @@
+@font-face {
+  font-family: coca;
+  src: url(Coca\ Cola\ ii.ttf);
+}
+
+.img {
+  padding-top: 50px;
+}
+img {
+  border-radius: 50%;
+  width: 250px;
+  border: 10px 10px solid black;
+}
+.jumbotron {
+  background-image: url("img/bg2.jpg");
+  background-size: cover;
+  box-sizing: 0px -50px 50px;
+  height: 745px;
+}
+.name h1 {
+  color: white;
+  font-family: coca;
+  font-size: 85px;
+}
+.name p {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.container {
+  padding-top: 20px;
+}
+.rmCont {
+  background: black;
+  color: white;
+  padding: 20px;
+  padding-top: 40px;
+  border-radius: 15px;
+  height: auto;
+  width: auto;
+}
+.phase {
+  padding: 50px;
+}
+.rm-name {
+  padding-top: 30px;
+}
+
+.phase li {
+  color: grey;
+}
+.tnc-head {
+  color: white;
+  padding-bottom: 50px;
+  margin-top: 30px;
+}
+.logo {
+  margin: 30px;
+}
+.tnc-body {
+  color: white;
+}
+.community {
+  padding: 50px;
+}
+.tokenomics {
+  padding: 50px;
+}
+.link img {
+  height: 90px;
+  width: 90px;
+}
+.tnc-cont {
+  color: black;
+  border-radius: 15px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin: 15px;
+}
